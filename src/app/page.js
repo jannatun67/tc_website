@@ -3,6 +3,7 @@ import Header from './components/Shared/Header';
 import TradersConnect from './components/TradersConnect';
 import TCCopierSection from './components/TCCopierSection';
 import TcAnaylzer from './components/TcAnaylzer';
+import TcCompare from './components/TcCompare';
 
 
 const Homepage = () => {
@@ -13,6 +14,7 @@ const Homepage = () => {
       <TradersConnect></TradersConnect>
       <TCCopierSection></TCCopierSection>
       <TcAnaylzer></TcAnaylzer>
+      <TcCompare></TcCompare>
       </h1>
     </div>
   );
