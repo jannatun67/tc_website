@@ -5,7 +5,7 @@ import React from 'react';
 const TCCopierSection = () => {
     return (
         <div>
-             <section className="max-w-[1200px] mx-auto ">
+    <section className="max-w-[1200px] mx-auto ">
       
       {/* Heading */}
       <h2 className="text-center text-[32px] leading-[40px] font-semibold text-[#0F172A] my-[120px]">
