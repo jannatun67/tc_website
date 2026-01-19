@@ -4,7 +4,7 @@ import React from 'react';
 const TradersConnect = () => {
     return (
         <div className="min-h-screen bg-[#F7F9FA] flex items-center justify-center">
-              <section className="max-w-[1200px] w-full px-6 py-20 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+              <section className="max-w-[1200px] w-full px-6 pt-20 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
       
       {/* LEFT CONTENT */}
       <div>
