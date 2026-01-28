@@ -4,6 +4,8 @@ import TradersConnect from './components/TradersConnect';
 import TCCopierSection from './components/TCCopierSection';
 import TcAnaylzer from './components/TcAnaylzer';
 import TcCompare from './components/TcCompare';
+import FeatureCardHome from './components/FeatureCards/FeatureCardHome';
+
 
 
 const Homepage = () => {
@@ -15,6 +17,7 @@ const Homepage = () => {
       <TCCopierSection></TCCopierSection>
       <TcAnaylzer></TcAnaylzer>
       <TcCompare></TcCompare>
+     <FeatureCardHome></FeatureCardHome>
       </h1>
     </div>
   );
