@@ -49,6 +49,7 @@ const TcCompare = () => {
                         <Image src={"/tCCopierSectionImg.png"}
                         width={600}
                         height={500}
+                        alt='Tc Copier Section'
                         ></Image>
                      </div>
                     </div>

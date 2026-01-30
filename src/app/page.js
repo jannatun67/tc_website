@@ -5,6 +5,8 @@ import TCCopierSection from './components/TCCopierSection';
 import TcAnaylzer from './components/TcAnaylzer';
 import TcCompare from './components/TcCompare';
 import FeatureCardHome from './components/FeatureCards/FeatureCardHome';
+import MarketTools from './components/MarketTools';
+import WorksWhere from './components/WorksWhere';
 
 
 
@@ -18,6 +20,8 @@ const Homepage = () => {
       <TcAnaylzer></TcAnaylzer>
       <TcCompare></TcCompare>
      <FeatureCardHome></FeatureCardHome>
+     <MarketTools></MarketTools>
+     <WorksWhere></WorksWhere>
       </h1>
     </div>
   );

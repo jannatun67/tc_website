@@ -38,16 +38,16 @@ const FeatureCardHome = () => {
       </div>
     </div>
 
-           <div className=" border border-gray-300 w-[280px] h-[296px] rounded-2xl bg-white p-4 flex flex-col justify-between">
-      <h3 className="text-sm font-medium text-gray-700">
+           <div className=" border border-gray-300 w-[280px] h-[296px] hover:bg-teal-700  hover:text-white rounded-2xl bg-white p-4 flex flex-col justify-between">
+      <h3 className="text-sm font-medium ">
     Automation Coverage
       </h3>
 
       <div>
-        <h2 className="text-4xl font-bold text-teal-700">
+        <h2 className="text-4xl font-bold text-teal-500">
          80%
         </h2>
-        <p className="mt-3 text-sm text-gray-600 leading-relaxed">
+        <p className="mt-3 text-sm  leading-relaxed">
      Automate copying, analytics, and alerts — covering 80% of your daily tasks.
         </p>
       </div>
@@ -67,16 +67,16 @@ const FeatureCardHome = () => {
             </div>
           </div>
 
-           <div className=" border border-gray-300 w-[280px] h-[296px] rounded-2xl bg-white p-4 flex flex-col justify-between">
-      <h3 className="text-sm font-medium text-gray-700">
+           <div className=" hover:bg-teal-700  hover:text-white border border-gray-300 w-[280px] h-[296px] rounded-2xl bg-white p-4 flex flex-col justify-between">
+      <h3 className="text-sm font-medium ">
     Smart Copier
       </h3>
 
       <div>
-        <h2 className="text-4xl font-bold text-teal-700">
+        <h2 className="text-4xl font-bold text-teal-500">
          5 layers
         </h2>
-        <p className="mt-3 text-sm text-gray-600 leading-relaxed">
+        <p className="mt-3 text-sm  leading-relaxed">
      Risk-control layers — from equity protection to trading-hour filters.
         </p>
       </div>
@@ -98,16 +98,16 @@ const FeatureCardHome = () => {
     </div>
 
               
-          <div className=" border border-gray-300 w-[280px] h-[296px] rounded-2xl bg-white p-4 flex flex-col justify-between">
-      <h3 className="text-sm font-medium text-gray-700">
+          <div className="hover:bg-teal-700  hover:text-white border border-gray-300 w-[280px] h-[296px] rounded-2xl bg-white p-4 flex flex-col justify-between">
+      <h3 className="text-sm font-medium">
        Real-Time Alerts
       </h3>
 
       <div>
-        <h2 className="text-4xl font-bold text-teal-700">
+        <h2 className="text-4xl font-bold text-teal-500">
           0 delay
         </h2>
-        <p className="mt-3 text-sm text-gray-600 leading-relaxed">
+        <p className="mt-3 text-sm  leading-relaxed">
        Receive instant notifications for drawdowns, trades, and news events.
         </p>
       </div>
@@ -130,16 +130,16 @@ const FeatureCardHome = () => {
     </div>
 
           
-          <div className=" border border-gray-300 w-[280px] h-[296px] rounded-2xl bg-white p-4 flex flex-col justify-between">
-      <h3 className="text-sm font-medium text-gray-700">
+          <div className="hover:bg-teal-700  hover:text-white border border-gray-300 w-[280px] h-[296px] rounded-2xl bg-white p-4 flex flex-col justify-between">
+      <h3 className="text-sm font-medium">
         Comparison Engine
       </h3>
 
       <div>
-        <h2 className="text-4xl font-bold text-teal-700">
+        <h2 className="text-4xl font-bold text-teal-500">
           50+
         </h2>
-        <p className="mt-3 text-sm text-gray-600 leading-relaxed">
+        <p className="mt-3 text-sm leading-relaxed">
          Compare 50+ brokers and prop firms side by side instantly.
         </p>
       </div>
@@ -160,16 +160,16 @@ const FeatureCardHome = () => {
       </div>
     </div>
 
-           <div className=" border border-gray-300 w-[280px] h-[296px] rounded-2xl bg-white p-4 flex flex-col justify-between">
-      <h3 className="text-sm font-medium text-gray-700">
+           <div className="hover:bg-teal-700  hover:text-white border border-gray-300 w-[280px] h-[296px] rounded-2xl bg-white p-4 flex flex-col justify-between">
+      <h3 className="text-sm font-medium">
         Secure Infrastructure
       </h3>
 
       <div>
-        <h2 className="text-4xl font-bold text-teal-700">
+        <h2 className="text-4xl font-bold text-teal-500">
           100%
         </h2>
-        <p className="mt-3 text-sm text-gray-600 leading-relaxed">
+        <p className="mt-3 text-sm leading-relaxed">
         Read-only, broker-verified API connections.
         </p>
       </div>

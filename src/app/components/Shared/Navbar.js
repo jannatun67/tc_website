@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
@@ -15,12 +16,7 @@ const NavbarPage = () => {
       {/* Navbar */}
       <nav className="max-w-7.5xl mx-auto flex items-center justify-between px-[56px] py-[35px]">
         <div className="flex items-center gap-2 ">
-          <span className="inline-flex h-8 w-8 items-center justify-center rounded-full bg-emerald-400/20">
-            ⟁
-          </span>
-         <div>
-             <span className="font-semibold">Traders</span>Connect
-         </div>
+          <Image src="/logo.png" width={200} height={200} alt="logo" className="z-50"></Image>
         </div>
         <ul className="hidden md:flex items-center gap-[15px] text-sm text-white/80">
           <Link href="/"
